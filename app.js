@@ -151,10 +151,10 @@ function multiplyAnyArray(dynamicArray) { //eslint-disable-line
    }
    return [result, 'The numbers ' + dynamicArray + ' have a product of ' + result + '.'];
 }
-<<<<<<< HEAD
+// <<<<<<< HEAD
 
-=======
->>>>>>> problem6
+// =======
+// >>>>>>> problem6
 
 
 // Here is the test for multiplyArray(); uncomment it to run it
